@@ -1,0 +1,10 @@
+Pedido realizado com sucesso! 
+Nome: asdvs
+Telefone: asdfbvasd
+Endereço: 
+asdvsdv
+Cidade: Porto Alegre
+Sabor da Pizza: Muzzarela
+Tamanho: Média
+Quantidade: 1
+
